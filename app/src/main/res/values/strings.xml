@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <style name="Theme.Petagram" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+
+</resources>
